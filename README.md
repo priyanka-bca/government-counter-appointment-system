@@ -2,7 +2,7 @@ Government Counter Appointment Booking System
 System Analysis Work Sample
 
 Prepared by: Piyanka Ghimire  
-Purpose: Illustrative work sample for a System Analyst application to the Software Development and Operation Committee (SDOC), Nepal  
+ 
 Project status: Conceptual case study — not implemented
 
 1. Overview
